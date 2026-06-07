@@ -1,9 +1,9 @@
-<!-- Banner -->
-<img width="100%" src="assets/banner.svg" alt="Ayesha Ali — Web & Mobile Developer"/>
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fda4af,40:f472b6,100:be185d&height=230&section=header&text=Ayesha%20Ali&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer&descAlignY=60&descSize=22&descColor=ffe4e6"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F472B6&center=true&vCenter=true&width=520&lines=Web+%26+Mobile+Developer+%F0%9F%92%BB;Building+beautiful+apps+%E2%9C%A8;Learning+Express.js+%26+backend+%F0%9F%8C%B1;Let's+Connect+and+have+a+Chat!+%F0%9F%92%AC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=Building+beautiful+web+apps+%F0%9F%92%BB;Creating+mobile+apps+with+Flutter+%F0%9F%93%B1;Learning+Express.js+%26+backend+%F0%9F%8C%B1;Always+learning%2C+always+growing+%E2%9C%A8" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -91,9 +91,9 @@ I'm **Ayesha Ali** — a passionate developer who loves building clean, beautifu
 
 <div align="center">
 
-*I'm always open to new projects and opportunities!*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=F472B6&center=true&vCenter=true&width=460&lines=Always+open+to+new+opportunities+%F0%9F%92%BC;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Connect typing" />
 
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-ali-784912375/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithayeshaali/)
@@ -101,19 +101,8 @@ I'm **Ayesha Ali** — a passionate developer who loves building clean, beautifu
 
 </div>
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=codewithayeshaali&color=f472b6&style=flat-square&label=Profile+Views)
-
 <br/>
 
-Thanks for visiting! 👋
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fda4af,40:f472b6,100:be185d&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Ayesha%20Ali&descAlignY=85&descSize=14&descColor=ffe4e6"/>
 
-*Made with ❤️ by Ayesha Ali*
-
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fda4af,100:ec4899&height=120&section=footer"/>
