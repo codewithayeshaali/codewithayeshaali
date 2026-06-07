@@ -74,11 +74,6 @@ I'm **Ayesha Ali** — a passionate developer who loves building clean, beautifu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=codewithayeshaali&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0814&title_color=f472b6&icon_color=fb7185&text_color=fda4af" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithayeshaali&layout=compact&hide_border=true&bg_color=0d0814&title_color=f472b6&text_color=fda4af" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=codewithayeshaali&background=0D0814&ring=F472B6&fire=FB7185&currStreakLabel=F472B6&sideLabels=FDA4AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FDA4AF&hide_border=true" />
 </div>
 
@@ -88,18 +83,6 @@ I'm **Ayesha Ali** — a passionate developer who loves building clean, beautifu
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithayeshaali&bg_color=0d0814&color=f472b6&line=fb7185&point=fda4af&area=true&hide_border=true" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithayeshaali/codewithayeshaali/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithayeshaali/codewithayeshaali/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/codewithayeshaali/codewithayeshaali/output/github-contribution-grid-snake.svg"/>
-  </picture>
 </div>
 
 ---
