@@ -1,9 +1,9 @@
-<!-- Header Banner -->
-<img width="100%" src="assets/banner.svg" alt="Ayesha Ali - Full-Stack Developer"/>
+<!-- Banner -->
+<img width="100%" src="assets/banner.svg" alt="Ayesha Ali — Web & Mobile Developer"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+Web+%26+Mobile;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+Connect+and+have+a+Chat!+%F0%9F%92%AC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F472B6&center=true&vCenter=true&width=520&lines=Web+%26+Mobile+Developer+%F0%9F%92%BB;Building+beautiful+apps+%E2%9C%A8;Learning+Express.js+%26+backend+%F0%9F%8C%B1;Let's+Connect+and+have+a+Chat!+%F0%9F%92%AC" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -15,25 +15,24 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
 ```ts
 const ayesha = {
-  role:       "Full-Stack Developer",
-  focus:      ["Web Development", "Mobile Apps"],
-  learning:   "Express.js & backend architecture",
-  askMeAbout: ["React", "Next.js", "Flutter", "TypeScript"],
+  role:       "Web & Mobile Developer",
+  focus:      ["React", "Next.js", "Flutter"],
+  learning:   "Express.js & backend development",
   email:      "codewithayeshaali@gmail.com",
   motto:      "Build it. Ship it. Improve it.",
 };
 ```
 
-I'm a passionate **Full-Stack Developer** who loves building things that look great and work even better. I work across the stack — from pixel-perfect UIs with React and Next.js to cross-platform mobile apps with Flutter.
+I'm **Ayesha Ali** — a passionate developer who loves building clean, beautiful applications. I focus on crafting smooth user experiences on the web with React and Next.js, and on mobile with Flutter.
 
-- 🔭 Currently deepening my expertise in **full-stack & mobile development**
-- 🌱 Learning **Express.js** and backend architecture
-- ⚡ I enjoy turning complex problems into clean, elegant solutions
-- 💬 Ask me about **React**, **Next.js**, **Flutter**, **TypeScript**
+- 🔭 Currently building projects with **React** and **Next.js**
+- 📱 Creating cross-platform mobile apps with **Flutter**
+- 🌱 Learning **Express.js** and backend development
+- ⚡ I enjoy turning ideas into real, working products
 
 ---
 
@@ -63,7 +62,7 @@ I'm a passionate **Full-Stack Developer** who loves building things that look gr
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -75,12 +74,12 @@ I'm a passionate **Full-Stack Developer** who loves building things that look gr
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codewithayeshaali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithayeshaali&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=codewithayeshaali&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0814&title_color=f472b6&icon_color=fb7185&text_color=fda4af" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithayeshaali&layout=compact&hide_border=true&bg_color=0d0814&title_color=f472b6&text_color=fda4af" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithayeshaali&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=codewithayeshaali&background=0D0814&ring=F472B6&fire=FB7185&currStreakLabel=F472B6&sideLabels=FDA4AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FDA4AF&hide_border=true" />
 </div>
 
 ---
@@ -88,7 +87,7 @@ I'm a passionate **Full-Stack Developer** who loves building things that look gr
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithayeshaali&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithayeshaali&bg_color=0d0814&color=f472b6&line=fb7185&point=fda4af&area=true&hide_border=true" />
 </div>
 
 ---
@@ -97,9 +96,9 @@ I'm a passionate **Full-Stack Developer** who loves building things that look gr
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithayeshaali/codewithayeshaali/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithayeshaali/codewithayeshaali/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/codewithayeshaali/codewithayeshaali/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithayeshaali/codewithayeshaali/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithayeshaali/codewithayeshaali/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/codewithayeshaali/codewithayeshaali/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
@@ -109,7 +108,7 @@ I'm a passionate **Full-Stack Developer** who loves building things that look gr
 
 <div align="center">
 
-*I'm always interested in hearing about new projects and opportunities!*
+*I'm always open to new projects and opportunities!*
 
 <br/>
 
@@ -123,7 +122,7 @@ I'm a passionate **Full-Stack Developer** who loves building things that look gr
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=codewithayeshaali&color=A78BFA&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=codewithayeshaali&color=f472b6&style=flat-square&label=Profile+Views)
 
 <br/>
 
@@ -134,4 +133,4 @@ Thanks for visiting! 👋
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,15&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fda4af,100:ec4899&height=120&section=footer"/>
