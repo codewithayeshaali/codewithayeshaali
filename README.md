@@ -1,9 +1,9 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,15&height=220&section=header&text=AYESHA%20ALI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Web%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=20" />
+<img width="100%" src="assets/banner.svg" alt="Ayesha Ali - Full-Stack Developer"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Always+learning%2C+always+growing+%F0%9F%8C%B1;Building+for+web+%26+mobile+%F0%9F%9A%80;Turning+ideas+into+reality+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+Web+%26+Mobile;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+Connect+and+have+a+Chat!+%F0%9F%92%AC" alt="Typing SVG" />
 
 <br/><br/>
 
