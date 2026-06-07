@@ -1,5 +1,5 @@
 <!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fda4af,40:f472b6,100:be185d&height=230&section=header&text=Ayesha%20Ali&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer&descAlignY=60&descSize=22&descColor=ffe4e6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fda4af,40:f472b6,100:be185d&height=230&section=header&text=Ayesha%20Ali&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Web%20%7C%20Mobile%20Developer&descAlignY=60&descSize=22&descColor=ffe4e6"/>
 
 <div align="center">
 
@@ -104,5 +104,5 @@ I'm **Ayesha Ali** — a passionate developer who loves building clean, beautifu
 <br/>
 
 <!-- Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fda4af,40:f472b6,100:be185d&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Ayesha%20Ali&descAlignY=85&descSize=14&descColor=ffe4e6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fda4af,40:f472b6,100:be185d&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Made%20with%20love%20by%20Ayesha%20Ali&descAlignY=85&descSize=14&descColor=ffe4e6"/>
 
