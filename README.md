@@ -11,9 +11,9 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-ali-784912375/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/codewithayeshaali/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:codewithayeshaali@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-ali-784912375/)
+[![Instagram](https://img.shields.io/badge/Instagram-1D4ED8?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/codewithayeshaali/)
+[![Gmail](https://img.shields.io/badge/Gmail-1D4ED8?style=flat-square&logo=gmail&logoColor=white)](mailto:codewithayeshaali@gmail.com)
 
 </div>
 
@@ -99,9 +99,9 @@ I'm **Ayesha Ali** — a passionate developer who loves building clean, beautifu
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-ali-784912375/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithayeshaali/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithayeshaali@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-ali-784912375/)
+[![Instagram](https://img.shields.io/badge/Instagram-1D4ED8?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithayeshaali/)
+[![Gmail](https://img.shields.io/badge/Gmail-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewithayeshaali@gmail.com)
 
 </div>
 
