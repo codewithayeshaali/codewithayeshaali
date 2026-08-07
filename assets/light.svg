@@ -185,6 +185,10 @@
       </g>
     </g>
 
+    <text x="40" y="440" font-family="'Fira Code',Consolas,monospace" font-size="12" fill="#0284C7" opacity="0.85">$ echo $MOTTO</text>
+    <clipPath id="motoClip"><rect x="40" y="450" width="0" height="24"><animate attributeName="width" from="0" to="270" dur="1.2s" begin="1.8s" fill="freeze"/></rect></clipPath>
+    <text x="40" y="468" font-family="'Fira Code',Consolas,monospace" font-size="13" font-weight="600" fill="#0F172A" clip-path="url(#motoClip)">Build it. Ship it. Improve it.</text>
+
     <text x="224" y="525" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="25" font-weight="800" letter-spacing="3" fill="url(#asciiGrad)" filter="url(#textGlow)">AYESHA ALI</text>
     <text x="224" y="548" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12" fill="#475569">@codewithayeshaali</text>
 
