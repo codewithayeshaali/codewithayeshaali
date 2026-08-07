@@ -108,20 +108,73 @@
     </g>
 
     <g filter="url(#textGlow)">
-      <g font-family="'Fira Code','Cascadia Code',Consolas,monospace" font-size="16" font-weight="600" fill="url(#asciiGrad)" text-anchor="middle">
+      <g fill="none" stroke="url(#asciiGrad)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
         <animateTransform attributeName="transform" type="translate" values="0,0;0,-7;0,0" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.42 0 0.58 1;0.42 0 0.58 1"/>
 
-        <text x="224" y="96" opacity="0">╭───────────╮<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0;0.0179;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/></text>
-        <text x="224" y="118" opacity="0">│  ◉     ◉  │<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0214;0.0393;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/></text>
-        <text x="224" y="140" opacity="0">│      ▽    │<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0429;0.0607;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/></text>
-        <text x="224" y="162" opacity="0">│  ╰─────╯  │<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0643;0.0821;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/></text>
-        <text x="224" y="184" opacity="0">╰─────┬─────╯<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0857;0.1036;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/></text>
-        <text x="224" y="206" opacity="0">   ┌──┴──┐<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1071;0.125;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/></text>
-        <text x="224" y="228" opacity="0">   │ &lt;/&gt; │<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1286;0.1464;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/></text>
-        <text x="224" y="250" opacity="0">   └──┬──┘<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.15;0.1679;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/></text>
-        <text x="224" y="272" opacity="0">╭─────┴─────╮<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1714;0.1893;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/></text>
-        <text x="224" y="294" opacity="0">│  DEV MODE │<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1929;0.2107;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/></text>
-        <text x="224" y="316" opacity="0">╰───────────╯<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2143;0.2321;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/></text>
+        <!-- head + ears -->
+        <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0;0.0179;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/>
+          <ellipse cx="224" cy="140" rx="54" ry="46"/>
+          <circle cx="166" cy="142" r="11"/>
+          <circle cx="282" cy="142" r="11"/>
+        </g>
+
+        <!-- eyes -->
+        <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0214;0.0393;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/>
+          <circle cx="202" cy="136" r="16" fill="#0B1220" stroke="none"/>
+          <circle cx="246" cy="136" r="16" fill="#0B1220" stroke="none"/>
+        </g>
+
+        <!-- eye shine -->
+        <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0429;0.0607;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/>
+          <circle cx="197" cy="130" r="4.5" fill="#1E40AF" stroke="none"/>
+          <circle cx="241" cy="130" r="4.5" fill="#1E40AF" stroke="none"/>
+        </g>
+
+        <!-- mouth -->
+        <path d="M 206 172 Q 224 186 242 172" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0643;0.0821;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/></path>
+
+        <!-- body -->
+        <rect x="176" y="205" width="96" height="80" rx="28" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0857;0.1036;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/></rect>
+
+        <!-- belly buttons -->
+        <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1071;0.125;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/>
+          <circle cx="224" cy="245" r="12"/>
+          <circle cx="200" cy="245" r="6"/>
+          <circle cx="248" cy="245" r="6"/>
+        </g>
+
+        <!-- arms -->
+        <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1286;0.1464;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/>
+          <rect x="150" y="222" width="18" height="34" rx="9"/>
+          <rect x="280" y="222" width="18" height="34" rx="9"/>
+        </g>
+
+        <!-- legs -->
+        <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.15;0.1679;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/>
+          <rect x="190" y="285" width="22" height="30" rx="10"/>
+          <rect x="236" y="285" width="22" height="30" rx="10"/>
+        </g>
+
+        <!-- feet -->
+        <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1714;0.1893;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/>
+          <ellipse cx="201" cy="320" rx="20" ry="10"/>
+          <ellipse cx="247" cy="320" rx="20" ry="10"/>
+        </g>
+
+        <!-- sparkles -->
+        <g opacity="0" fill="url(#asciiGrad)" stroke="none"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1929;0.2107;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/>
+          <path d="M148,90 L151,98 L159,101 L151,104 L148,112 L145,104 L137,101 L145,98 Z"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" begin="0s" repeatCount="indefinite"/></path>
+          <path d="M320,180 L322,185 L327,187 L322,189 L320,194 L318,189 L313,187 L318,185 Z"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" begin="0.6s" repeatCount="indefinite"/></path>
+          <path d="M126,190 L128,195 L133,197 L128,199 L126,204 L124,199 L119,197 L124,195 Z"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" begin="1.1s" repeatCount="indefinite"/></path>
+          <path d="M312,220 L314,225 L319,227 L314,229 L312,234 L310,229 L305,227 L310,225 Z"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" begin="0.3s" repeatCount="indefinite"/></path>
+        </g>
+
+        <!-- POOKIE note -->
+        <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2143;0.2321;0.7143;0.7571;1" dur="14s" repeatCount="indefinite"/>
+          <path d="M282,116 L270,124" stroke-width="2"/>
+          <rect x="280" y="92" width="76" height="26" rx="13" fill="rgba(15,23,42,0.03)" stroke="rgba(15,23,42,0.10)" stroke-width="1"/>
+          <text x="318" y="109" text-anchor="middle" font-family="'Fira Code',Consolas,monospace" font-size="12" font-weight="700" fill="#0F172A" stroke="none">POOKIE</text>
+        </g>
       </g>
     </g>
 
@@ -151,13 +204,13 @@
       <text x="0" y="62" font-size="13" fill="#0284C7">$ role --current</text>
 
       <g transform="translate(0,88)">
-        <clipPath id="roleClip0"><rect x="0" y="-16" width="0" height="20"><animate attributeName="width" values="0;0;189;189;0;0" keyTimes="0;0;0.0667;0.1533;0.1733;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+        <clipPath id="roleClip0"><rect x="0" y="-16" width="0" height="20"><animate attributeName="width" values="0;0;204;204;0;0" keyTimes="0;0;0.0667;0.1533;0.1733;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
         <clipPath id="roleClip1"><rect x="0" y="-16" width="0" height="20"><animate attributeName="width" values="0;0;216;216;0;0" keyTimes="0;0.2;0.2667;0.3533;0.3733;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
         <clipPath id="roleClip2"><rect x="0" y="-16" width="0" height="20"><animate attributeName="width" values="0;0;216;216;0;0" keyTimes="0;0.4;0.4667;0.5533;0.5733;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
         <clipPath id="roleClip3"><rect x="0" y="-16" width="0" height="20"><animate attributeName="width" values="0;0;198;198;0;0" keyTimes="0;0.6;0.6667;0.7533;0.7733;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
         <clipPath id="roleClip4"><rect x="0" y="-16" width="0" height="20"><animate attributeName="width" values="0;0;144;144;0;0" keyTimes="0;0.8;0.8667;0.9533;0.9733;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
 
-        <text x="0" y="0" font-size="16" font-weight="700" fill="#0F172A" clip-path="url(#roleClip0)">Full-Stack Developer</text>
+        <text x="0" y="0" font-size="16" font-weight="700" fill="#0F172A" clip-path="url(#roleClip0)">Web &amp; Mobile Developer</text>
         <text x="0" y="0" font-size="16" font-weight="700" fill="#0F172A" clip-path="url(#roleClip1)">React &amp; Next.js Engineer</text>
         <text x="0" y="0" font-size="16" font-weight="700" fill="#0F172A" clip-path="url(#roleClip2)">Flutter Mobile Developer</text>
         <text x="0" y="0" font-size="16" font-weight="700" fill="#0F172A" clip-path="url(#roleClip3)">UI/UX Focused Engineer</text>
@@ -167,7 +220,7 @@
           <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
           <animate attributeName="x" dur="15s" repeatCount="indefinite"
             keyTimes="0;0.0667;0.1533;0.1733;0.2;0.2667;0.3533;0.3733;0.4;0.4667;0.5533;0.5733;0.6;0.6667;0.7533;0.7733;0.8;0.8667;0.9533;0.9733;1"
-            values="0;189;189;0;0;216;216;0;0;216;216;0;0;198;198;0;0;144;144;0;0"/>
+            values="0;204;204;0;0;216;216;0;0;216;216;0;0;198;198;0;0;144;144;0;0"/>
         </rect>
       </g>
 
@@ -180,13 +233,13 @@
           <text x="0" y="0" fill="#475569">location:</text><text x="118" y="0" fill="#0F172A" font-weight="600">Remote / Worldwide</text>
         </g>
         <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="2.5s" fill="freeze"/>
-          <text x="0" y="26" fill="#475569">education:</text><text x="118" y="26" fill="#0F172A" font-weight="600">Self-Taught Developer</text>
+          <text x="0" y="26" fill="#475569">education:</text><text x="118" y="26" fill="#0F172A" font-weight="600">BS Software Engineering</text>
         </g>
         <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.0s" fill="freeze"/>
           <text x="0" y="52" fill="#475569">focus:</text><text x="118" y="52" fill="#0F172A" font-weight="600">Backend Dev &amp; Express.js</text>
         </g>
         <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3.5s" fill="freeze"/>
-          <text x="0" y="78" fill="#475569">portfolio:</text><text x="118" y="78" fill="#0F172A" font-weight="600">Coming Soon</text>
+          <text x="0" y="78" fill="#475569">portfolio:</text><text x="118" y="78" fill="#475569" font-style="italic">launching soon</text>
         </g>
         <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="4.0s" fill="freeze"/>
           <text x="0" y="104" fill="#475569">email:</text><text x="118" y="104" fill="#0F172A" font-weight="600">codewithayeshaali@gmail.com</text>
