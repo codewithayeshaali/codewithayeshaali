@@ -83,14 +83,6 @@ I'm **Ayesha Ali** — a passionate developer who loves building clean, beautifu
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/38bdf8/codewithayeshaali" alt="Contribution graph" width="100%" />
-</div>
-
----
-
 ## Let's Connect
 
 <div align="center">
