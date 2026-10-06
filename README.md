@@ -19,7 +19,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 ```ts
 const ayesha = {
@@ -33,14 +33,14 @@ const ayesha = {
 
 I'm **Ayesha Ali** — a passionate developer who loves building clean, beautiful applications. I focus on crafting smooth user experiences on the web with React and Next.js, and on mobile with Flutter.
 
-- 🔭 Currently building projects with **React** and **Next.js**
-- 📱 Creating cross-platform mobile apps with **Flutter**
-- 🌱 Learning **Express.js** and backend development
-- ⚡ I enjoy turning ideas into real, working products
+- Currently building projects with **React** and **Next.js**
+- Creating cross-platform mobile apps with **Flutter**
+- Learning **Express.js** and backend development
+- I enjoy turning ideas into real, working products
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
