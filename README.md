@@ -86,7 +86,7 @@ I'm **Ayesha Ali** — a passionate developer who loves building clean, beautifu
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithayeshaali&bg_color=0b1220&color=38bdf8&line=60a5fa&point=93c5fd&area=true&hide_border=true" />
+  <img src="https://ghchart.rshah.org/38bdf8/codewithayeshaali" alt="Contribution graph" width="100%" />
 </div>
 
 ---
@@ -95,7 +95,7 @@ I'm **Ayesha Ali** — a passionate developer who loves building clean, beautifu
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=38BDF8&center=true&vCenter=true&width=460&lines=Always+open+to+new+opportunities+%F0%9F%92%BC;Let's+build+something+amazing+together+%F0%9F%9A%80" alt="Connect typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=38BDF8&center=true&vCenter=true&width=460&lines=Always+open+to+new+opportunities+%F0%9F%92%BC;Let%27s+build+something+amazing+together+%F0%9F%9A%80" alt="Connect typing" />
 
 <br/><br/>
 
