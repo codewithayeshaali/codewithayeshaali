@@ -78,7 +78,7 @@ I'm **Ayesha Ali** — a passionate developer who loves building clean, beautifu
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithayeshaali&background=0B1220&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8&sideLabels=93C5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=93C5FD&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=codewithayeshaali&background=0B1220&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8&sideLabels=93C5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=93C5FD&hide_border=true&v=2" />
 </div>
 
 ---
