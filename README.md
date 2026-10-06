@@ -75,7 +75,7 @@ I'm **Ayesha Ali** — a passionate developer who loves building clean, beautifu
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=codewithayeshaali&background=0B1220&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8&sideLabels=93C5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=93C5FD&hide_border=true" />
@@ -83,7 +83,7 @@ I'm **Ayesha Ali** — a passionate developer who loves building clean, beautifu
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithayeshaali&bg_color=0b1220&color=38bdf8&line=60a5fa&point=93c5fd&area=true&hide_border=true" />
@@ -91,7 +91,7 @@ I'm **Ayesha Ali** — a passionate developer who loves building clean, beautifu
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
